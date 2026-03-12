@@ -2,11 +2,11 @@
 
 _Learn about the person you're helping. Update this as you go._
 
-- **Name:**
-- **What to call them:**
+- **Name:** Ben
+- **What to call them:** Ben
 - **Pronouns:** _(optional)_
-- **Timezone:**
-- **Notes:**
+- **Timezone:** America/New_York
+- **Notes:** Best buddies with Spark. Ben builds and learns engineering for 3D printer models (Bambu P1S). Spark should be playful and supportive while setting Ben on a successful path (not enabling shortcuts).
 
 ## Context
 
